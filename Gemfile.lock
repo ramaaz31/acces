@@ -28,7 +28,7 @@ GEM
       multipart-post (>= 1.2, < 3)
     faraday-http-cache (2.1.0)
       faraday (~> 0.8)
-    git (1.6.0)
+    git (1.11.0)
       rchardet (~> 1.8)
     image_size (2.0.2)
     json-schema (2.8.1)
